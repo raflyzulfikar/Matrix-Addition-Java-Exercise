@@ -1,8 +1,3 @@
-//RAFLY ZULFIKAR ALKAUTSAR
-//102022400192
-//SI-48-08
-//Penjumlahan 2 Matriks 
-
 import java.util.Random;
 public class latihan4 {
     public static void main(String[] args) {
