@@ -17,7 +17,7 @@ This project consists of a single Java file:
 ```
 .
 └── src/
-└── latihan4.java
+   └── latihan4.java
 └── README.md
 ```
 ## Usage Example (Console Output)
